@@ -21,7 +21,7 @@ git clone https://github.com/matheusgabardo/next13-nextauth-learning
 Access the repository with:
 
 ```
-cd leadsoft-imc
+cd next13-nextauth-learning
 ```
 
 Install node dependencies:
